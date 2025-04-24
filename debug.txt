@@ -1,0 +1,45 @@
+[
+    {
+        "nome": "ROBERTO",
+        "sexo": null,
+        "localidade": "BR",
+        "res": [
+            {
+                "periodo": "1930[",
+                "frequencia": 1601
+            },
+            {
+                "periodo": "[1930,1940[",
+                "frequencia": 6778
+            },
+            {
+                "periodo": "[1940,1950[",
+                "frequencia": 23053
+            },
+            {
+                "periodo": "[1950,1960[",
+                "frequencia": 56557
+            },
+            {
+                "periodo": "[1960,1970[",
+                "frequencia": 105051
+            },
+            {
+                "periodo": "[1970,1980[",
+                "frequencia": 108253
+            },
+            {
+                "periodo": "[1980,1990[",
+                "frequencia": 81501
+            },
+            {
+                "periodo": "[1990,2000[",
+                "frequencia": 36506
+            },
+            {
+                "periodo": "[2000,2010[",
+                "frequencia": 17988
+            }
+        ]
+    }
+]
